@@ -1,4 +1,4 @@
-package com.exercicios.domain;
+package com.exercicios.saidasimples.domain;
 
 import javax.swing.*;
 import java.awt.*;

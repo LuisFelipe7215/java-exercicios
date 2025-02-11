@@ -1,4 +1,4 @@
-package com.exercicios.test;
+package com.exercicios.saidasimples.test;
 
 public class Exer007 {
     public static void main(String[] args) {

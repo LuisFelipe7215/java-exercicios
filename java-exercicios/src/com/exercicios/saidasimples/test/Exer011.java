@@ -1,4 +1,4 @@
-package com.exercicios.test;
+package com.exercicios.saidasimples.test;
 
 import java.util.ArrayList;
 import java.util.List;
