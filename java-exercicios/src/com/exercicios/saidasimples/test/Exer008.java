@@ -1,6 +1,6 @@
-package com.exercicios.test;
+package com.exercicios.saidasimples.test;
 
-import com.exercicios.domain.ApresentacaoFotossintese;
+import com.exercicios.saidasimples.domain.ApresentacaoFotossintese;
 
 import javax.swing.*;
 
