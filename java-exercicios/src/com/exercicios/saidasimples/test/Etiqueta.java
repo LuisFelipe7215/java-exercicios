@@ -1,6 +1,6 @@
 package com.exercicios.saidasimples.test;
 
-public class Exer002 {
+public class Etiqueta {
     public static void main(String[] args) {
         System.out.println("Nome: Naruto Uzumaki");
         System.out.println("Endereço: Vila da Folha");

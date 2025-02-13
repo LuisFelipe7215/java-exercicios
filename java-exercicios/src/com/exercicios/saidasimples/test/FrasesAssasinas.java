@@ -1,6 +1,6 @@
 package com.exercicios.saidasimples.test;
 
-public class Exer003 {
+public class FrasesAssasinas {
     public static void main(String[] args) {
         System.out.println("Acabou! Tudo está perdido!");
         System.out.println("Não sobra nada. Apenas desesperança.");

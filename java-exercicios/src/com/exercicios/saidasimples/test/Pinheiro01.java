@@ -3,7 +3,7 @@ package com.exercicios.saidasimples.test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Exer013 {
+public class Pinheiro01 {
     public static void main(String[] args) {
         List<String> pinheiro = new ArrayList<>();
         pinheiro.add("       P");

@@ -1,6 +1,6 @@
 package com.exercicios.saidasimples.test;
 
-public class Exer007 {
+public class TabelaDeNotas {
     public static void main(String[] args) {
 
         System.out.println("Aluno(A)        NOTA");
