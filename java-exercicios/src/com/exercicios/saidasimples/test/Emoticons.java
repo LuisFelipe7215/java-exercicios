@@ -3,7 +3,7 @@ package com.exercicios.saidasimples.test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Exer012 {
+public class Emoticons {
     public static void main(String[] args) {
         Map<String, String> emoticons = new HashMap<>();
         emoticons.put(":)", "feliz");

@@ -3,7 +3,7 @@ package com.exercicios.saidasimples.test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Exer014 {
+public class Pinheiro02 {
     public static void main(String[] args) {
         List<String> pinheiro = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
