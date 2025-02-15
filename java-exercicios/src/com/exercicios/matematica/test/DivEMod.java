@@ -2,7 +2,7 @@ package com.exercicios.matematica.test;
 
 import java.util.Scanner;
 
-// Programa verifica se eu calculei corretamente.
+
 public class DivEMod {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
