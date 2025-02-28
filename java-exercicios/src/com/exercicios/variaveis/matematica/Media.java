@@ -9,10 +9,11 @@ public class Media {
         double media = 0;
         for (int i = 1; i <= 3; i++) {
             System.out.printf("Entre com a nota %d%n", i);
-            media += sc.nextDouble();
+            media += sc.nextInt();
         }
         media /= 3;
 
         System.out.println("A média das notas é: " + media);
+        sc.close();
     }
 }
